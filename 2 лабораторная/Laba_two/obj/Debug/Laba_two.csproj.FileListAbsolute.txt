@@ -1,0 +1,7 @@
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\bin\Debug\Laba_two.exe.config
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\bin\Debug\Laba_two.exe
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\bin\Debug\Laba_two.pdb
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\obj\Debug\Laba_two.csproj.AssemblyReference.cache
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\obj\Debug\Laba_two.csproj.CoreCompileInputs.cache
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\obj\Debug\Laba_two.exe
+C:\Users\egorp\OneDrive\Рабочий стол\3 КУРС\5 СЕМЕСТР\Тестирование и отладка ПО\2 лабораторная\Laba_two\obj\Debug\Laba_two.pdb
